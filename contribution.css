@@ -3,5 +3,22 @@
 /* Visually connect the About profile and heatmap as one continuous content block. */
 .about-section{gap:0!important}
 .about-section .section-head{margin-bottom:24px}
-.about-section .about-card{margin-bottom:0;border-radius:18px 18px 0 0;border-bottom-color:transparent;box-shadow:0 22px 70px rgba(0,0,0,.35)}
-.about-section .contribution-story{margin-top:0!important;margin-bottom:0;border-radius:0 0 22px 22px;border-top-color:var(--line);box-shadow:0 26px 90px rgba(0,0,0,.42)}
+.about-section .about-card{margin-bottom:0;border-radius:18px 18px 0 0;border-bottom:0;box-shadow:0 22px 70px rgba(0,0,0,.35)}
+.about-section .contribution-story{margin-top:0!important;margin-bottom:0;border-radius:0 0 22px 22px;border-top:0;box-shadow:0 26px 90px rgba(0,0,0,.42)}
+
+/* Theme-aware heatmap colors. Existing animation behavior remains unchanged. */
+.contribution-story{border-color:color-mix(in srgb,var(--accent) 24%,var(--line));background:radial-gradient(circle at 72% 48%,color-mix(in srgb,var(--accent) 10%,transparent),transparent 32%),linear-gradient(145deg,#040a10,#070f16)}
+.contribution-title span,.contribution-stat strong,.live-status strong{color:var(--accent)}
+.live-dot{background:var(--accent);box-shadow:0 0 15px var(--accent)}
+.contribution-cell{background:color-mix(in srgb,var(--accent) 5%,#06101d)}
+.contribution-cell[data-level="1"]{background:color-mix(in srgb,var(--accent) 22%,#06101d)}
+.contribution-cell[data-level="2"]{background:color-mix(in srgb,var(--accent) 42%,#06101d)}
+.contribution-cell[data-level="3"]{background:color-mix(in srgb,var(--accent) 68%,#06101d)}
+.contribution-cell[data-level="4"]{background:var(--accent)}
+.contribution-cell.live{box-shadow:0 0 8px var(--accent),0 0 20px color-mix(in srgb,var(--accent) 72%,transparent)}
+.contribution-cell.live:after{background:linear-gradient(to top,transparent,color-mix(in srgb,var(--accent) 78%,transparent),transparent)}
+.heatmap-legend i{background:color-mix(in srgb,var(--accent) 5%,#06101d)}
+.heatmap-legend i:nth-of-type(2){background:color-mix(in srgb,var(--accent) 22%,#06101d)}
+.heatmap-legend i:nth-of-type(3){background:color-mix(in srgb,var(--accent) 42%,#06101d)}
+.heatmap-legend i:nth-of-type(4){background:color-mix(in srgb,var(--accent) 68%,#06101d)}
+.heatmap-legend i:nth-of-type(5){background:var(--accent)}
