@@ -1,6 +1,13 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/assets/zachary-carver-headshot-hq.svg",
+      "destination": "/assets/zachary-carver-headshot-hq.jpg",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     {
       "source": "/assets/zachary-carver-headshot-hq.jpg",
