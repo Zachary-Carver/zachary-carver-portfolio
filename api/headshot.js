@@ -6,9 +6,9 @@ const leadingHex = [
 ].join('');
 
 const compressedMiddleReversed = [
-  require('./headshot-data/part-02a'),
-  require('./headshot-data/part-02b'),
-  require('./headshot-data/part-02c')
+  require('./headshot-data/middle-a'),
+  require('./headshot-data/middle-b'),
+  require('./headshot-data/middle-c')
 ].join('');
 
 const middleBytes = zlib.inflateSync(
