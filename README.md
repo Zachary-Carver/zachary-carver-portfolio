@@ -25,9 +25,13 @@ A responsive static portfolio for Zachary Carver, Software Systems Engineer, AI 
 
 No build command or environment variables are required for the public static site.
 
+## Canonical Repository
+
+`https://github.com/Zachary-Carver/zachary-carver-portfolio`
+
 ## Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FCSICleanSceneInvestigators%2Fzachary-carver-portfolio&project-name=zachary-carver-portfolio&repository-name=zachary-carver-portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FZachary-Carver%2Fzachary-carver-portfolio&project-name=zachary-carver-portfolio&repository-name=zachary-carver-portfolio)
 
 Recommended Vercel settings:
 
@@ -36,6 +40,8 @@ Recommended Vercel settings:
 - Root directory: repository root
 - Build command: leave blank
 - Output directory: leave blank
+
+Normal updates should be made in a feature branch, reviewed through a pull request, and merged into `main`. When Vercel Git integration is connected to the canonical repository, merges to `main` deploy automatically.
 
 ## Content Governance
 
