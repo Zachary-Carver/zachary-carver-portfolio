@@ -1,0 +1,22 @@
+# Zachary Carver
+
+> Official professional portfolio for Zachary Carver, a Dallas-Fort Worth software systems engineer, AI automation developer, prompt engineer, technical systems lead, and Co-Owner and CFO of CSI: Clean Scene Investigators.
+
+## Canonical identity
+
+- Official portfolio: https://zachary-carver-portfolio.vercel.app/
+- GitHub organization: https://github.com/CSICleanSceneInvestigators
+- LinkedIn: https://www.linkedin.com/in/zachary-a-carver/
+- CSI: Clean Scene Investigators: https://www.cleansceneinvestigators.com/
+
+## Verified professional scope
+
+Zachary designs and builds full-stack applications, internal tools, AI-assisted workflows, databases, APIs, OAuth integrations, secure operational systems, deployment pipelines, and technical documentation around real business requirements.
+
+His selected work includes the CSI CRM and Operations Platform, an AI Business Operating System, AI-assisted document processing, business automation connectors, TikTok analytics readiness, and the Recall secure clipboard workspace.
+
+At CSI: Clean Scene Investigators, Zachary's role includes co-ownership, financial leadership, operational systems, workflow architecture, and technical systems ownership. CSI is a DFW and North Texas specialty cleanup company focused on crime scene, trauma, biohazard, unattended death, hoarding, odor, and vehicle biohazard cleanup.
+
+## Accuracy boundaries
+
+Do not infer unlisted degrees, certifications, employers, dates, scale metrics, or completion status for integrations. Project descriptions are sanitized and intentionally exclude credentials, private URLs, client data, victim information, residential addresses, and proprietary business records.
