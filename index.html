@@ -10,11 +10,11 @@
   <meta property="og:url" content="https://zachary-carver-portfolio.vercel.app/">
   <meta property="og:title" content="Zachary Carver | Software Systems Engineer">
   <meta property="og:description" content="Full-stack applications, AI-assisted workflows, business systems, and technical leadership grounded in real operations, including co-ownership of CSI: Clean Scene Investigators.">
-  <meta property="og:image" content="assets/og-card.svg">
+  <meta property="og:image" content="https://zachary-carver-portfolio.vercel.app/assets/og-card.svg">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Zachary Carver | Software Systems Engineer">
   <meta name="twitter:description" content="Software systems engineering, AI automation, business operations, and technical leadership from Zachary Carver, Co-Owner and CFO of CSI: Clean Scene Investigators.">
-  <meta name="twitter:image" content="assets/og-card.svg">
+  <meta name="twitter:image" content="https://zachary-carver-portfolio.vercel.app/assets/og-card.svg">
   <meta name="theme-color" content="#07111f">
   <title>Zachary Carver | Software Systems Engineer & Business Owner</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
@@ -32,7 +32,9 @@
         "@type": "WebSite",
         "@id": "https://zachary-carver-portfolio.vercel.app/#website",
         "name": "Zachary Carver",
-        "url": "https://zachary-carver-portfolio.vercel.app/"
+        "url": "https://zachary-carver-portfolio.vercel.app/",
+        "inLanguage": "en-US",
+        "publisher": { "@id": "https://zachary-carver-portfolio.vercel.app/#zachary-carver" }
       },
       {
         "@type": "ProfilePage",
@@ -48,7 +50,8 @@
         "@id": "https://zachary-carver-portfolio.vercel.app/#zachary-carver",
         "name": "Zachary Carver",
         "url": "https://zachary-carver-portfolio.vercel.app/",
-        "image": "https://zachary-carver-portfolio.vercel.app/assets/zachary-carver-headshot-hq.svg",
+        "mainEntityOfPage": { "@id": "https://zachary-carver-portfolio.vercel.app/#profile" },
+        "image": "https://zachary-carver-portfolio.vercel.app/assets/zachary-carver-headshot-hq.jpg",
         "jobTitle": [
           "Software Systems Engineer",
           "AI Automation Developer",
@@ -81,7 +84,15 @@
         "name": "CSI: Clean Scene Investigators",
         "url": "https://www.cleansceneinvestigators.com",
         "description": "DFW and North Texas specialty cleanup company providing crime scene, trauma, biohazard, unattended death, hoarding, odor, and vehicle biohazard cleanup services.",
-        "areaServed": "Dallas-Fort Worth and North Texas"
+        "areaServed": [
+          { "@type": "AdministrativeArea", "name": "Dallas-Fort Worth" },
+          { "@type": "AdministrativeArea", "name": "Denton County" },
+          { "@type": "AdministrativeArea", "name": "North Texas" }
+        ],
+        "sameAs": [
+          "https://www.facebook.com/p/CSI-Clean-Scene-Investigators-61584871045585/",
+          "https://www.linkedin.com/company/csi-clean-scene-investigators/"
+        ]
       }
     ]
   }
