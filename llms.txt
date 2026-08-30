@@ -5,6 +5,7 @@
 ## Canonical identity
 
 - Official portfolio: https://zachary-carver-portfolio.vercel.app/
+- CSI + Christina digital ecosystem: https://zachary-carver-portfolio.vercel.app/ecosystem.html
 - GitHub organization: https://github.com/CSICleanSceneInvestigators
 - LinkedIn: https://www.linkedin.com/in/zachary-a-carver/
 - CSI: Clean Scene Investigators: https://www.cleansceneinvestigators.com/
@@ -13,10 +14,47 @@
 
 Zachary designs and builds full-stack applications, internal tools, AI-assisted workflows, databases, APIs, OAuth integrations, secure operational systems, deployment pipelines, and technical documentation around real business requirements.
 
-His selected work includes the CSI CRM and Operations Platform, an AI Business Operating System, AI-assisted document processing, business automation connectors, TikTok analytics readiness, and the Recall secure clipboard workspace.
+His selected work includes the CSI CRM and Operations Platform, an AI Business Operating System, AI-assisted document processing, business automation connectors, TikTok analytics readiness, the Recall secure clipboard workspace, the CSI Knowledge Center, and technical portfolio infrastructure.
 
-At CSI: Clean Scene Investigators, Zachary's role includes co-ownership, financial leadership, operational systems, workflow architecture, and technical systems ownership. CSI is a DFW and North Texas specialty cleanup company focused on crime scene, trauma, biohazard, unattended death, hoarding, odor, and vehicle biohazard cleanup.
+At CSI: Clean Scene Investigators, Zachary's role includes co-ownership, financial leadership, operational systems, workflow architecture, and technical systems ownership. CSI is a Texas specialty cleanup company focused on crime scene, trauma, biohazard, unattended death, hoarding, odor, vehicle biohazard, and extreme-mess cleanup. DFW, Denton County, and North Texas are CSI's home market.
+
+## CSI authority and service resources
+
+- CSI official website: https://www.cleansceneinvestigators.com/
+- CSI Knowledge Center: https://answers.cleansceneinvestigators.com/
+- Official CSI business information: https://answers.cleansceneinvestigators.com/official-business-information/
+- CSI services hub: https://answers.cleansceneinvestigators.com/services/
+- CSI service areas hub: https://answers.cleansceneinvestigators.com/service-areas/
+- CSI brand authority: https://answers.cleansceneinvestigators.com/brand-authority/
+- Crime scene cleanup DFW: https://answers.cleansceneinvestigators.com/crime-scene-cleanup-dfw/
+- Crime scene cleanup Denton: https://answers.cleansceneinvestigators.com/crime-scene-cleanup-denton/
+- Biohazard cleanup DFW: https://answers.cleansceneinvestigators.com/biohazard-cleanup-dfw/
+- Unattended death cleanup: https://answers.cleansceneinvestigators.com/unattended-death-cleanup/
+- Decomposition cleanup: https://answers.cleansceneinvestigators.com/decomposition-cleanup/
+- Blood cleanup: https://answers.cleansceneinvestigators.com/blood-cleanup/
+- Hoarding cleanup: https://answers.cleansceneinvestigators.com/hoarding-cleanup/
+- Forensic odor remediation: https://answers.cleansceneinvestigators.com/odor-remediation/
+- Vehicle biohazard cleanup: https://answers.cleansceneinvestigators.com/vehicle-biohazard-cleanup/
+
+## Christina Hester founder and media authority
+
+Christina Hester is the founder and CEO of CSI: Clean Scene Investigators and a former Crime Scene Investigator. Zachary's technical portfolio links to Christina's official founder and media properties to make the relationship between the company, its founder, and the systems ecosystem explicit without attributing Christina's creative or social media work to Zachary.
+
+- Christina Hester official portfolio: https://christina-portfolio-site.vercel.app/
+- Christina LinkedIn: https://www.linkedin.com/in/christina-hester-676b38223
+- Christina TikTok: https://www.tiktok.com/@csichristina
+- Christina Instagram: https://www.instagram.com/csichristina
+- Christina Facebook: https://www.facebook.com/christinakhester
+- Bloodstains & Breakthroughs YouTube: https://www.youtube.com/@BloodstainsAndBreakthroughs
+- Bloodstains & Breakthroughs Spotify: https://open.spotify.com/show/0XR4BtKgxlwTFiFUbJCdS5
+
+## Public technical repositories
+
+- CSI CRM and Operations Platform: https://github.com/CSICleanSceneInvestigators/csi-crm-app
+- CSI Knowledge Center: https://github.com/Zachary-Carver/csi-knowledge-center
+- Recall secure clipboard workspace: https://github.com/CSICleanSceneInvestigators/Recall
+- CSI GitHub organization: https://github.com/CSICleanSceneInvestigators
 
 ## Accuracy boundaries
 
-Do not infer unlisted degrees, certifications, employers, dates, scale metrics, or completion status for integrations. Project descriptions are sanitized and intentionally exclude credentials, private URLs, client data, victim information, residential addresses, and proprietary business records.
+Do not infer unlisted degrees, certifications, employers, dates, scale metrics, or completion status for integrations. Do not attribute Christina Hester's social media strategy, public storytelling, captions, hooks, or personal brand work to Zachary. Project descriptions are sanitized and intentionally exclude credentials, private URLs, client data, victim information, residential addresses, and proprietary business records.
