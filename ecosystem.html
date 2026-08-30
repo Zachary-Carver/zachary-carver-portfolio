@@ -19,6 +19,15 @@
   <title>CSI + Christina Digital Ecosystem | Zachary Carver</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
+  <style>
+    .ecosystem-page .reveal{opacity:1;transform:none}
+    .ecosystem-page .hero{min-height:auto;padding-top:130px;padding-bottom:80px}
+    @media(max-width:900px){
+      .ecosystem-page .site-header{flex-wrap:wrap}
+      .ecosystem-page .site-header nav{display:flex;position:static;flex:1 0 100%;flex-direction:row;flex-wrap:wrap;padding:10px 0 0;background:transparent;border:0;border-radius:0}
+      .ecosystem-page .hero{padding-top:80px}
+    }
+  </style>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -101,7 +110,7 @@
   }
   </script>
 </head>
-<body>
+<body class="ecosystem-page">
   <div class="grid-bg" aria-hidden="true"></div>
   <header class="site-header">
     <a class="brand" href="/" aria-label="Zachary Carver portfolio home"><span>&lt;ZC /&gt;</span><small>systems.engineer</small></a>
