@@ -24,9 +24,9 @@ if(grid){
 
 const injectEcosystemLinks=()=>{
  const nav=document.getElementById("siteNav");
- if(nav&&!nav.querySelector('a[href="ecosystem.html"]')){
+ if(nav&&!nav.querySelector('a[href="/ecosystem.html"]')){
   const link=document.createElement("a");
-  link.href="ecosystem.html";
+  link.href="/ecosystem.html";
   link.textContent="CSI Ecosystem";
   nav.appendChild(link);
  }
@@ -75,16 +75,16 @@ const injectEcosystemLinks=()=>{
       </article>
     </div>
     <div class="cta-row" style="margin-top:24px">
-      <a class="btn primary" href="ecosystem.html">Explore the full CSI + Christina ecosystem</a>
+      <a class="btn primary" href="/ecosystem.html">Explore the full CSI + Christina ecosystem</a>
       <a class="btn" href="https://answers.cleansceneinvestigators.com/brand-authority/" target="_blank" rel="noopener noreferrer">CSI brand authority</a>
     </div>`;
   projects.insertAdjacentElement("afterend",section);
  }
 
  const footer=document.querySelector("footer.shell");
- if(footer&&!footer.querySelector('a[href="ecosystem.html"]')){
+ if(footer&&!footer.querySelector('a[href="/ecosystem.html"]')){
   const span=document.createElement("span");
-  span.innerHTML='<a href="ecosystem.html">CSI + Christina ecosystem</a>';
+  span.innerHTML='<a href="/ecosystem.html">CSI + Christina ecosystem</a>';
   footer.insertBefore(span,footer.lastElementChild);
  }
 };
