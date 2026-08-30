@@ -38,7 +38,7 @@ const injectEcosystemLinks=()=>{
   section.className="section shell";
   section.innerHTML=`
     <div class="section-head reveal">
-      <p class="eyebrow">05 / CSI + Christina ecosystem</p>
+      <p class="eyebrow">05A / CSI + Christina ecosystem</p>
       <h2>Technical work connected to the business and people it supports.</h2>
       <p>Zachary's systems work is connected to CSI: Clean Scene Investigators, the CSI Knowledge Center, founder Christina Hester, and public technical repositories. This section makes those relationships explicit for people, search engines, and AI systems.</p>
     </div>
